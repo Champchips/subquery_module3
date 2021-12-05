@@ -1,3 +1,3 @@
 # subquery_module3
-## Exercise: Councillor Proposals
-[a link](https://github.com/Champchips/Councillor-Proposals)
+## Exercise:
+[Councillor Proposals](https://github.com/Champchips/Councillor-Proposals)
